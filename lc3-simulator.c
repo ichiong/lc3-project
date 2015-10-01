@@ -56,8 +56,8 @@
 	// execute it.
 	//
 	int main (int argc, char *argv[]) {
-		printf("Ivaness Christle Chiong, Section 01\n");
-		printf("LC-3 Simulator (Final Project): CS 350 Final Lab\n");
+		printf("Ivaness Christle Chiong, 2014\n");
+		printf("LC-3 Simulator \n");
 		CPU cpu_value;
 		CPU *cpu = &cpu_value;
 		initialize_memory(argc, argv, cpu);
