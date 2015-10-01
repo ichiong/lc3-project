@@ -1,0 +1,6 @@
+8000	; origin
+F020	; trap x20 GETC
+F021	; trap OUT
+F023	; trap IN
+F021	; trap OUT
+F025	; trap HALT
